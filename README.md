@@ -1,6 +1,9 @@
 # Nand2Tetris
 ![icon](nand2tetris_icon.PNG)
 
+## Course
+- [Course Homepage](https://www.nand2tetris.org/)
+
 ## References
 - [华中科技大学：计算机组成原理](https://www.icourse163.org/learn/HUST-1003159001?tid=1003367001#/learn/content)
 - [华中科技大学：计算机硬件系统设计](http://www.icourse163.org/learn/HUST-1205809816?tid=1450219449#/learn/announce)
