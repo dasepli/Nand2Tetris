@@ -10,7 +10,7 @@
 - [Course Homepage](https://www.nand2tetris.org/)
 
 ### 2. Computer Hardware System Design @ Huazhong University of Science and Technology
-- [Homepage](http://www.icourse163.org/learn/HUST-1205809816?tid=1450219449#/learn/announce)
+- [Course Homepage](http://www.icourse163.org/learn/HUST-1205809816?tid=1450219449#/learn/announce)
 - Labs: 
   - [Lab 1：Logisim Introduction](https://github.com/dasepli/Nand2Tetris/tree/master/HUST_Computer_Hardware_System_Design/lab1_logisim_intro)
   <img src="HUST_Computer_Hardware_System_Design/lab1_logisim_intro/lab1.PNG" width="50%" height="50%">
