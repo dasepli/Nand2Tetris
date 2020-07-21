@@ -21,3 +21,6 @@
 - [Youtube Course](https://www.youtube.com/watch?v=hi5ekb_9ZSU&list=PLbx-k3N9Yr9-vSAQ4QBzI981sU_xc_zWM)
 - [知乎回答](https://www.zhihu.com/question/38838088/answer/78521124)
 - [Songkeys' Blog](https://songkeys.github.io/posts/nand2tetris/)
+- [使用logisim设计简易CPU](https://blog.csdn.net/qq_37937830/article/details/93144805)
+- [Logisim设计模型机——编制并执行程序](https://blog.csdn.net/qq_41420747/article/details/91444626?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522158436643019724846401669%2522%252C%2522scm%2522%253A%252220140713.130056874..%2522%257D&request_id=158436643019724846401669&biz_id=0&utm_source=distribute.pc_search_result.none-task)
+- [简单CPU设计实践](https://lianera.github.io/post/2014/cpu-step-by-step/)
