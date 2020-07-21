@@ -1,6 +1,10 @@
 # Welcome! This is Peng's Repo for Computer Organization!
 ![icon](nand2tetris_icon.PNG)
 
+## Notes
+- TBC
+
+
 ## Projects
 ### Nand2Teris @ The Hebrew University of Jerusalem
 - [Course Homepage](https://www.nand2tetris.org/)
@@ -9,7 +13,7 @@
 - [Homepage](http://www.icourse163.org/learn/HUST-1205809816?tid=1450219449#/learn/announce)
 - Lab 1：Logisim Introduction
 
-![LAB1](HUST_Computer_Hardware_System_Design/lab1_logisim_intro/lab1.PNG)
+<img src="HUST_Computer_Hardware_System_Design/lab1_logisim_intro/lab1.PNG" width="50%" height="50%">
 
 ## References
 - [华中科技大学：计算机组成原理](https://www.icourse163.org/learn/HUST-1003159001?tid=1003367001#/learn/content)
