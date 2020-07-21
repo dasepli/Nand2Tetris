@@ -6,10 +6,10 @@
 
 
 ## Projects
-### 1. Nand2Teris @ The Hebrew University of Jerusalem
+### 1. Nand2Teris @ Hebrew University
 - [Course Homepage](https://www.nand2tetris.org/)
 
-### 2. Computer Hardware System Design @ Huazhong University of Science and Technology
+### 2. Computer Hardware System Design @ HUST
 - [Course Homepage](http://www.icourse163.org/learn/HUST-1205809816?tid=1450219449#/learn/announce)
 - [EduCoder Link](https://www.educoder.net/paths/1426)
 - Labs: 
