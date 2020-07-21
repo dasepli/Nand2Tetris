@@ -1,4 +1,4 @@
-# Welcome! This is Peng’s Repo for Computer Organization, Learning by Playing!
+# Computer Organization
 ![icon](nand2tetris_icon.PNG)
 
 ## Notes
