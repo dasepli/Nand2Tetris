@@ -1,4 +1,4 @@
-This is Peng's repo for computer organization, from nand to tetris, learn by playing!
+**This is Peng's repo for computer organization, from nand to tetris, learn by playing!**
 
 ![icon](nand2tetris_icon.PNG)
 
