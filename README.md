@@ -3,7 +3,13 @@ This is Peng's repo for computer organization
 ![icon](nand2tetris_icon.PNG)
 
 ## Notes
-- TBC
+- [Introduction](notes/chap1_intro.html)
+- [ALU](notes/chap2_ALU.html)
+- [Memory](notes/chap3_memory.html)
+- [Instruction](notes/chap4_instruction.html)
+- [CU](notes/chap5_CU.html)
+- [Bus](notes/chap6_bus.html)
+- [IO](notes/chap7_IO.html)
 
 
 ## Projects
