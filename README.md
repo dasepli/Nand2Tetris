@@ -1,4 +1,5 @@
-# Computer Organization
+This is Peng's repo for computer organization
+
 ![icon](nand2tetris_icon.PNG)
 
 ## Notes
