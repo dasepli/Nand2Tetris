@@ -8,7 +8,7 @@
 ## Notes
 
 |No. |Note |Materials | 
-| :-- | :-- | :-- |
+| :--: | :--: | :--: |
 | Lec1 | [Introduction](notes/chap1_intro.html) | |
 | Lec2 | [Arithmetic&Logical Unit](notes/chap2_ALU.html) | |
 | Lec3 | [Memory](notes/chap3_memory.html) | | 
