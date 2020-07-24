@@ -6,6 +6,7 @@
 ![icon](nand2tetris_icon.PNG)
 
 ## Notes
+
 |No. |Note |Materials | 
 | :-- | :-- | :-- |
 | Lec1 | [Introduction](notes/chap1_intro.html) | |
