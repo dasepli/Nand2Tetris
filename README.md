@@ -1,5 +1,6 @@
 
 **This is Peng's repo for computer organization, from nand to tetris, learn by playing!**
+> SATRT ON 2020.07.21
 
 
 ![icon](nand2tetris_icon.PNG)
