@@ -3,7 +3,9 @@
 > SATRT ON 2020.07.21
 
 
-![icon](nand2tetris_icon.PNG)
+- [Course Homepage](http://www.icourse163.org/learn/HUST-1205809816?tid=1450219449#/learn/announce)
+- [EduCoder Link](https://www.educoder.net/paths/1426)
+
 
 ## Notes
 
@@ -19,15 +21,8 @@
 
 
 ## Projects
-### 1. Nand2Teris @ Hebrew University
-- [Course Homepage](https://www.nand2tetris.org/)
-
-### 2. Computer Hardware System Design @ HUST
-- [Course Homepage](http://www.icourse163.org/learn/HUST-1205809816?tid=1450219449#/learn/announce)
-- [EduCoder Link](https://www.educoder.net/paths/1426)
-- Labs: 
-  - [Lab 1：Logisim Introduction](https://github.com/dasepli/Nand2Tetris/tree/master/HUST_Computer_Hardware_System_Design/lab1_logisim_intro)
-  <img src="HUST_Computer_Hardware_System_Design/lab1_logisim_intro/lab1.PNG" width="50%" height="50%">
+- [Lab 1：Logisim Introduction](https://github.com/dasepli/Nand2Tetris/tree/master/HUST_Computer_Hardware_System_Design/lab1_logisim_intro)
+<img src="HUST_Computer_Hardware_System_Design/lab1_logisim_intro/lab1.PNG" width="50%" height="50%">
 
 ## References
 - [华中科技大学：计算机组成原理](https://www.icourse163.org/learn/HUST-1003159001?tid=1003367001#/learn/content)
@@ -38,3 +33,4 @@
 - [使用logisim设计简易CPU](https://blog.csdn.net/qq_37937830/article/details/93144805)
 - [Logisim设计模型机——编制并执行程序](https://blog.csdn.net/qq_41420747/article/details/91444626?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522158436643019724846401669%2522%252C%2522scm%2522%253A%252220140713.130056874..%2522%257D&request_id=158436643019724846401669&biz_id=0&utm_source=distribute.pc_search_result.none-task)
 - [简单CPU设计实践](https://lianera.github.io/post/2014/cpu-step-by-step/)
+- [Nand2Teris @ Hebrew University](https://www.nand2tetris.org/)
